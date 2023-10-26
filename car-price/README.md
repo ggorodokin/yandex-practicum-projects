@@ -18,7 +18,7 @@
 - Численные методы
 - Кастомные функции
 
-- Работа с данными: **pandas**, numpy**
+- Работа с данными: **pandas, numpy**
 - Графики: **matplotlib, seaborn**
 - Подготовка данных: **train_test_split**
 - Обработка признаков: **StandardScaler, category_encoders**
