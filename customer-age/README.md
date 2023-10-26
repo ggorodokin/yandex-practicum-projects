@@ -22,7 +22,7 @@
 - Графики: **matplotlib**
 - Генерация тензоров: **ImageDataGenerator**
 - Модель: **Sequential**
-- Предобученная нейронная сеть: **ResNet50**
+- Backbone: **ResNet50**
 - Слои: **GlobalAveragePooling2D**, **Dense**
 - Оптимизация обучения: **Adam**
 
