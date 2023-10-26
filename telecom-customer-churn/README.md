@@ -1,6 +1,7 @@
 # Прогнозирование оттока телеком компании
 
-Для просмотра проекта можно выбрать [**Notebook**](https://github.com/ggorodokin/yandex-practicum-projects/blob/main/telecom-customer-churn/telecom-customer-churn.ipynb) 
+Для просмотра проекта можно выбрать 
+[**Notebook**](/telecom-customer-churn/telecom-customer-churn.ipynb) 
 или [**HTML**](http://htmlpreview.github.io/?https://github.com/ggorodokin/yandex-practicum-projects/blob/main/telecom-customer-churn/telecom-customer-churn.html).
 
 ## Описание проекта

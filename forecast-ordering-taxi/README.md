@@ -1,7 +1,7 @@
 # Прогнозирование количества заказов такси на следующий час
 
 Для просмотра проекта можно выбрать 
-[**Notebook**](https://github.com/ggorodokin/yandex-practicum-projects/blob/main/forecast-ordering-taxi/forecast-ordering-taxi.ipynb) 
+[**Notebook**](/forecast-ordering-taxi/forecast-ordering-taxi.ipynb) 
 или [**HTML**](http://htmlpreview.github.io/?https://github.com/ggorodokin/yandex-practicum-projects/blob/main/forecast-ordering-taxi/forecast-ordering-taxi.html).
 
 ## Описание проекта

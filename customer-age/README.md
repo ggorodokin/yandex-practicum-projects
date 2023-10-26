@@ -1,7 +1,7 @@
 # Обработка фотографий покупателя
 
 Для просмотра проекта можно выбрать 
-[**Notebook**](https://github.com/ggorodokin/yandex-practicum-projects/blob/main/customer-age/customer-age.ipynb) 
+[**Notebook**](customer-age/customer-age.ipynb) 
 или [**HTML**](http://htmlpreview.github.io/?https://github.com/ggorodokin/yandex-practicum-projects/blob/main/customer-age/customer-age.html).
 
 ## Описание проекта
