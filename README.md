@@ -1,5 +1,9 @@
-| #   | Название                                                      | Задача проекта                                | Стек технологий                                                                                        |
-|-----|---------------------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| 1   | [Прогнозирование количества заказов такси на следующий час]() | Разработка системы предсказания объема заказа | Python, Pandas, NumPy, Matplotlib, SciPy, statmodels, Scikit-learn, LightGBM, CatBoost                 |
-| 2   | [Обработка фотографий покупателя]()                           | Определение возраста по фотографии            | Python, Pandas, Matplotlib, Keras                                                                      |
-| 3   | [Прогнозирование оттока телеком компании]()                   | Прогнозирование оттока телеком компании       | Python, Pandas, NumPy, Matplotlib, Seaborn, Phi-K, Scikit-learn, Category Encoders, LightGBM, CatBoost |
+# Портфолио работ
+
+Здесь собраны некоторые проекты, выполненные во время прохождения курса.
+
+| #   | Название проекта                                                                                                                                                                          | Задача проекта                                 | Стек технологий                                                                                        |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1   | [Прогнозирование количества заказов такси на следующий час](https://github.com/ggorodokin/yandex-practicum-projects/tree/052ace2e6dcd8cdbad54e80a6bd35478e48ac6c3/forecast-ordering-taxi) | Разработка системы предсказания объема заказа  | Python, Pandas, NumPy, Matplotlib, SciPy, statmodels, Scikit-learn, LightGBM, CatBoost                 |
+| 2   | [Обработка фотографий покупателя](https://github.com/ggorodokin/yandex-practicum-projects/tree/052ace2e6dcd8cdbad54e80a6bd35478e48ac6c3/customer-age)                                     | Определение возраста по фотографии             | Python, Pandas, Matplotlib, Keras                                                                      |
+| 3   | [Прогнозирование оттока телеком компании](https://github.com/ggorodokin/yandex-practicum-projects/tree/052ace2e6dcd8cdbad54e80a6bd35478e48ac6c3/telecom-customer-churn)                   | Прогнозирование оттока телеком компании        | Python, Pandas, NumPy, Matplotlib, Seaborn, Phi-K, Scikit-learn, Category Encoders, LightGBM, CatBoost |
